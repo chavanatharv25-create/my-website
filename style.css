@@ -1,0 +1,40 @@
+body {
+  background-color: #f0f4f8;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+h1 {
+  color: #2563eb;
+  text-align: center;
+}
+
+h2 {
+  color: #1e3a8a;
+}
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+img {
+  border-radius: 50%;
+  width: 150px;
+}
+
+a {
+  color: #db2777;
+}
+.card {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
